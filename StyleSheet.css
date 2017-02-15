@@ -1,0 +1,15 @@
+﻿body {
+    background-color:gray;    
+}
+
+#referenceList {
+    width: 185px;
+    float:left;
+    background-color:white;
+}
+
+#patientTable{
+    float:left;
+    background-color:white;
+    margin-left:40px;
+}
